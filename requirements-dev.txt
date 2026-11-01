@@ -1,0 +1,4 @@
+# Extra dependencies for local development (EDA notebook only).
+# Install with:  pip install -r requirements-dev.txt
+# Not needed on Streamlit Cloud — the deployed app never runs Jupyter.
+jupyter
